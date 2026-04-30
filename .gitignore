@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+
+# user data (important)
+conversations.json
+output/
+exports/
+.claude
+
+# vs code settings
+.vscode/
+chatgpt-export.code-workspace
+
