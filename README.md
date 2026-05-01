@@ -7,7 +7,7 @@ Built for people who want their conversations back in a form they can actually u
 ## Install
 
 ```bash
-git clone https://github.com/winget.powershell/chatgpt-export.git
+git clone https://github.com/wingetx/chatgpt-export
 cd chatgpt-export
 ```
 
